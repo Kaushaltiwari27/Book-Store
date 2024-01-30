@@ -7,6 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ![github-cover](https://github.com/Kaushaltiwari27/Book-Store/assets/153057797/cb586597-005e-4f9d-b882-e2c9b471ac6d)
+
+
+
 I'm excited to announce that I'm working on a new MERN Stack Online Book Store Website Project with Inventory Management! This project will include the following features:
 
 
